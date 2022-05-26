@@ -1,13 +1,5 @@
 <html>
    <body>
-       <h2>
-         <p align="center"> 
-            <img src="https://komarev.com/ghpvc/?username=gauravghongde&label=Profile%20Views&color=blue&style=plastic" alt="gauravghongde"/>
-            <a href="https://madebygaurav.vercel.app">
-               <img src="https://img.shields.io/badge/Portfolio-madebygaurav.vercel.app-2ea44f?style=plastic"/>
-            </a>
-         </p>
-      </h2>
       <h2 align="center">Bio</h2>
       <p align="center">
          Undergraduate Student at UF pursuing a Major in Computer Science with a Minor in Statistics. I'm very passionate about Software Engineering and like to dabble in its intersections with Data Science and Machine Learning. Currently working on ML Web Applications and a geostatistical open source software library.<br>
