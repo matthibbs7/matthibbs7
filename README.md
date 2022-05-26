@@ -1,8 +1,8 @@
 <html>
    <body>
-      <h2 align="center">Bio</h2>
+      <h2 align="center">👋 Welcome to my Github</h2>
       <p align="center">
-         Undergraduate Student at UF pursuing a Major in Computer Science with a Minor in Statistics. I'm very passionate about Software Engineering and like to dabble in its intersections with Data Science and Machine Learning. Currently working on ML Web Applications and a geostatistical open source software library.<br>
+         I'm an Undergraduate Student at the University of Florida pursuing a Major in Computer Science with a Minor in Statistics. I'm very passionate about Software Engineering and enjoy Full-stack development. Currently working on ML Web Applications and a geostatistical open source software library. You can also access my personal portfolio website at: <a href="https://mhibbs.dev">mhibbs.dev</a> <br>
       </p>
       <h2 align="center">Technologies I currently work with</h2>
       <dl align="center">
