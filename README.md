@@ -7,7 +7,7 @@
       <h2 align="center">Technologies I currently work with</h2>
       <dl align="center">
          <dt>Languages :</dt>
-         <dd>- C++, Python, JavaScript/TypeScript, Java</dd>
+         <dd>- C++, Python, JavaScript/TypeScript, Kotlin, Java</dd>
          <dt>Frameworks and Libraries :</dt>
          <dd>- React, React Native, Next.js, Flask, Django
          </dd>
