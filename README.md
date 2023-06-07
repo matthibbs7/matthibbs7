@@ -6,17 +6,17 @@
              /|                                                               
         //^^^  ~~~~^^^^---___                   ^\            /|              
      /c~~`'     ____          ^^^^             /| \\        /_ _\             
-     ~^^--; _\\\    ~~~---___     ~~~~        / '|  \\       | |              
-         /_/                 --        ~~~__/ ,  |   \\       \ \             
-        ~                      -        |\--;' |  |    ;;      | |            
-                               |          \   |    |    /     /  /          Check out some of my projects below!
-                              |__ \  \     ~--|/~~\/~~|/     /  /             
-  I'm Matt               /---_.     \  \         |    /      |  |             Need to contact me?
-Welcome to my GitHub !  ;-/   ~\-----   ;         |           |  |               Reach me at:
+     ~^^--; _\\\    ~~~---___     ~~~~        / '|  \\       | |      My proficiencies include building frontend       
+         /_/                 --        ~~~__/ ,  |   \\       \ \        interfaces, high performance computing, 
+        ~                      -        |\--;' |  |    ;;      | |         web development, and systems programming   
+                               |          \   |    |    /     /  /         
+                              |__ \  \     ~--|/~~\/~~|/     /  /          Check out some of my projects below!   
+  I'm Matt               /---_.     \  \         |    /      |  |         
+Welcome to my GitHub !  ;-/   ~\-----   ;         |           |  |           Need to contact me?
                          '--\_,--------'           |          |   |                 
-                           / ____    _^^^_..        |        -                      hibbs.matthew@protonmail.com
+                           / ____    _^^^_..        |        -                Reach me at:  
                           |       /^       ..       |       _    |            
-              /           | ---- |      .           |      _    |             
+              /           | ---- |      .           |      _    |             hibbs.matthew@protonmail.com
           6  /__           `     `.      |           |    -    -              
          0+}/ ;~            ` .--  `      |           -__-    -     q\        
        =( __ /               / ` -_.     /                   -     /`'>       
