@@ -9,12 +9,12 @@
      ~^^--; _\\\    ~~~---___     ~~~~        / '|  \\       | |              
          /_/                 --        ~~~__/ ,  |   \\       \ \             
         ~                      -        |\--;' |  |    ;;      | |            
-                               |          \   |    |    /     /  / 
+                               |          \   |    |    /     /  /          Check out some of my projects below!
                               |__ \  \     ~--|/~~\/~~|/     /  /             
-  I'm Matt               /---_.     \  \         |    /      |  |             
-Welcome to my GitHub !  ;-/   ~\-----   ;         |           |  |            
-                         '--\_,--------'           |          |   |           
-                           / ____    _^^^_..        |        -                
+  I'm Matt               /---_.     \  \         |    /      |  |             Need to contact me?
+Welcome to my GitHub !  ;-/   ~\-----   ;         |           |  |               Reach me at:
+                         '--\_,--------'           |          |   |                 
+                           / ____    _^^^_..        |        -                      hibbs.matthew@protonmail.com
                           |       /^       ..       |       _    |            
               /           | ---- |      .           |      _    |             
           6  /__           `     `.      |           |    -    -              
