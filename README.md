@@ -18,4 +18,4 @@
       
    </body>
 </html>
-<sub><samp><a href="">all links</a> // <a href="h">email</a> // <a href="">linkedin</samp></sub>
+<sub><samp><a href="">all links</a> // <a href="mailto:hibbs.matthew@protonmail.com">email</a> // <a href="https://www.linkedin.com/in/matthibbs/">linkedin</samp></sub>
